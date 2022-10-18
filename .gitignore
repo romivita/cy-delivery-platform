@@ -18,4 +18,3 @@ node_modules/
 # Dependency directory
 cypress/videos
 cypress/screenshots
-cypress.env.json
